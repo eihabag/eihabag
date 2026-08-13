@@ -46,7 +46,7 @@
 
 <ul>
   <li>
-    🎓 <b>Management Information Systems Student</b> —
+    🎓 <b>Business Information Systems Student</b> —
     Modern Academy Maadi
   </li>
 </ul>
